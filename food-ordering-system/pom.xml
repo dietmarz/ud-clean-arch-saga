@@ -14,10 +14,9 @@
     </modules>
 
     <parent>
-        <artifactId>spring-boot-starter-parent</artifactId>
-        <groupId>org.springframework.boot</groupId>
-        <version>2.6.7</version>
-        <relativePath/>
+        <groupId>com.food.ordering.system</groupId>
+        <artifactId>master-projekt</artifactId>
+        <version>1.0-SNAPSHOT</version>
     </parent>
 
     <groupId>com.food.ordering.system</groupId>
